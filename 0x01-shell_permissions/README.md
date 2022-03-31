@@ -1,1 +1,1 @@
-read,write,execute
+sets the mode
