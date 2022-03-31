@@ -1,1 +1,1 @@
-change permission
+permit all
