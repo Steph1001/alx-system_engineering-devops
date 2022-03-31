@@ -1,1 +1,1 @@
-007
+read,write,execute
