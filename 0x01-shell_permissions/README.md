@@ -1,1 +1,1 @@
-permit all subdirectories
+create directory
