@@ -1,1 +1,1 @@
-sets the mode
+permit all subdirectories
