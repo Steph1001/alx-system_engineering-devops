@@ -1,1 +1,1 @@
-permit all
+007
